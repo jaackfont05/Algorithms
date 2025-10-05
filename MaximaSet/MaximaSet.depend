@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1757279156 source:c:\users\jack fontenot\desktop\algorithms\maximaset\point.cpp
+	"point.h"
+
+1758324394 c:\users\jack fontenot\desktop\algorithms\maximaset\point.h
+	<iostream>
+
+1757288237 source:c:\users\jack fontenot\desktop\algorithms\maximaset\graphics.cpp
+	"graphics.h"
+
+1757290756 c:\users\jack fontenot\desktop\algorithms\maximaset\graphics.h
+	<iostream>
+	"point.h"
+
+1758323792 source:c:\users\jack fontenot\desktop\algorithms\maximaset\maxima.cpp
+	"maxima.h"
+	<iostream>
+
+1757285430 c:\users\jack fontenot\desktop\algorithms\maximaset\maxima.h
+	"point.h"
+
+1758321120 source:c:\users\jack fontenot\desktop\algorithms\maximaset\main.cpp
+	<iostream>
+	<fstream>
+	"point.h"
+	"maxima.h"
+	"graphics.h"
+	<string>
+	<utility>
+
