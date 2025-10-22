@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1760324336 source:c:\users\jack fontenot\desktop\algorithms\multialgpathfind\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<iomanip>
+	<ctime>
+
